@@ -27,7 +27,7 @@ a {
   background-color: #C5D3D9;
 }
 
-#featured-property figcamption {
+#featured-property.figcamption {
   font-size: 112px;
   margin: auto;
   width: 50%;

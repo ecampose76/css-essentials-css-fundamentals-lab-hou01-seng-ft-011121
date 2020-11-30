@@ -29,4 +29,6 @@ a {
 
 figure > figcaption {
   font-size: 12px;
+  margin-right: auto;
+  margin-left: auto;
 }

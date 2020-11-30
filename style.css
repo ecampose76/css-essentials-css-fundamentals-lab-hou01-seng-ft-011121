@@ -27,6 +27,6 @@ a {
   background-color: #C5D3D9;
 }
 
-figure, figcamption {
-
+figcamption {
+  font-size: 12px;
 }

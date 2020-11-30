@@ -29,5 +29,6 @@ a {
 
 figure, figcamption {
   font-size: 12px;
-  margin: center;
+  margin: auto;
+  width: 50%;
 }
